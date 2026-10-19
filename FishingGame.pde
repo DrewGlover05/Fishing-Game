@@ -22,7 +22,7 @@ float idleSpeed = 0.1;
 float bobbingSpeed = 0.1;
 
 // Fish
-String[] fish = {"Bass", "Carp", "Trout", ""};
+String[] fish = {"Bass", "Carp", "Trout", "Nothing"};
 int[] price = {10, 20, 50, 0};
 String[] rarity = {"50%", "30%", "20%", ""};
 int lastCatch = 3;
